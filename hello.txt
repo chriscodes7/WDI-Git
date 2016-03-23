@@ -5,3 +5,4 @@ Peach
 Strawberry
 Mango
 Kiwi
+Pear
