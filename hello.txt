@@ -3,3 +3,5 @@ Apple
 Orange
 Peach
 Strawberry
+Mango
+Kiwi
